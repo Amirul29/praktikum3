@@ -49,12 +49,12 @@ int main ()
 6. jika kondisi **false** Bandingkan kembali Variabel A dengan variabel C jika A lebih kecil dari C
 7. Jika kondisi **true** Maka cetaklah bilangan secara berurutan dari yang terkecil-terbesar yaitu **A,C,B**
 8. Jika kondisi **false** Maka cetaklah bilangan secara berurutan dari yang terkecil-terbesar yaitu **C,A,B**
-9. Kemudian jika A lebih kecil dari C
+9. Kemudian jika A lebih kecil dari C.
 10.Jika kondisi **true** Maka cetaklah bilangan secara berurutan dari yang terkecil-terbesar yaitu **B,A,C**
-11.jika kondisi **false** Bandingkan kembali Variabel B dengan variabel C jika B lebih kecil dari C
+11.jika kondisi **false** Bandingkan kembali Variabel B dengan variabel C jika B lebih kecil dari C.
 12.Jika kondisi **true** Maka cetaklah bilangan secara berurutan dari yang terkecil-terbesar yaitu **B,C,A**
 13.Jika kondisi **false** Maka cetaklah bilangan secara berurutan dari yang terkecil-terbesar yaitu **C,B,A**
-14.END
+14.END.
 
 
 ** Flowchart Program**
