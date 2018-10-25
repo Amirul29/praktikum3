@@ -118,6 +118,7 @@ int main()
 7. Dan jika Variavel A Sama dengan variabel C, jika kondisi *true** kama cetaklah **SEGITIGA SAMA KAKI**
 8. jika kondisi **false** samakan kembali variabel C dengan Variabel B, jika kondisi **true** cetaklah **SEGITIGA SAMA KAKI**
 9. jika kondisi **false** Cetaklah **SEGITIGA SEMBARANG**
+
 10.END
 
 
